@@ -7,7 +7,7 @@ Course schedule: [Stanford cs231n](http://cs231n.stanford.edu/schedule.html), [M
 
 Course notes: [Stanford cs231n](https://cs231n.github.io/)
 
-- Assignment1: 
+- Assignment1: Done
 
 - Assignment2: 
 
