@@ -9,7 +9,7 @@ Course notes: [Stanford cs231n](https://cs231n.github.io/)
 
 - Assignment1: Done
 
-- Assignment2: 
+- Assignment2: Done
 
 - Assignment3:
 
