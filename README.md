@@ -11,7 +11,7 @@ Course notes: [Stanford cs231n](https://cs231n.github.io/)
 
 - Assignment2: Done
 
-- Assignment3:
+- Assignment3: Done
 
 Note: The zip files are the original assignment file downloaded from the [course webside](https://cs231n.github.io/).
 
