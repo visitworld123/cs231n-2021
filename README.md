@@ -13,6 +13,6 @@ Course notes: [Stanford cs231n](https://cs231n.github.io/)
 
 - Assignment3: Done
 
-Note: The zip files are the original assignment file downloaded from the [course webside](https://cs231n.github.io/).
+Note: The zip files are the original assignment files downloaded from the [course webside](https://cs231n.github.io/).
 
 If you have any problems, feel free to open an issue, I am happy to discuss with you.   
