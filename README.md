@@ -1,5 +1,5 @@
 # cs231n-2021
-Stanford CS231n 2021 assignment solution.
+Assignment solution of Stanford CS231n(2021).
 
 Course video: [Stanford 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Michigan 2019](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r), [中文字幕](https://www.bilibili.com/video/BV1Dx411n7UE)
 
